@@ -30,6 +30,22 @@ h1 {
     padding-bottom: 10px;
 }
 
+#contact {
+    text-align: center;
+}
+
+#email {
+    color: #686868;
+}
+
+#github {
+    color: #686868;
+}
+
+#linkedin {
+    color: #686868;
+}
+
 .oui {
     width:50%
 }
