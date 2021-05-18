@@ -2,11 +2,6 @@
     background-color: #f8f8f8;
 }
 
-.maintxt {
-    background-image: url('./assets/images/IMG_0820.JPG');
-    background-size: cover;
-}
-
 h1 {
     color: #686868;
 }
@@ -24,9 +19,17 @@ h1 {
 }
 
 #bio {
-    width: 50%
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
 }
 
-#oui {
-    width: 50%;
+#work-header {
+    text-decoration: underline;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.oui {
+    width:50%
 }
