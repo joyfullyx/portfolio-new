@@ -1,0 +1,32 @@
+* {
+    background-color: #f8f8f8;
+}
+
+.maintxt {
+    background-image: url('./assets/images/IMG_0820.JPG');
+    background-size: cover;
+}
+
+h1 {
+    color: #686868;
+}
+
+.nav-link {
+    color: #686868;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+#profile-pic {
+    width: 50%;
+}
+
+#bio {
+    width: 50%
+}
+
+#oui {
+    width: 50%;
+}
